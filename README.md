@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Cosmin 👋
 
-<!--
-**Cosmy30/Cosmy30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer interested in C#, .NET, SQL and REST APIs.
 
-Here are some ideas to get you started:
+Technologies:
+• C#
+• .NET
+• SQL
+• REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a Fitness Progression API project for tracking workouts.
+
+Interests:
+• Backend development
+• Software engineering
+• Computational science
