@@ -1,16 +1,24 @@
 ## Hi, I'm Cosmin 👋
 
-I'm a backend developer interested in C#, .NET, SQL and REST APIs.
+Backend developer with a background in Chemistry and a strong interest in software engineering, C#, .NET, SQL and REST API development.
 
-Technologies:
-• C#
-• .NET
-• SQL
-• REST APIs
+📄 LinkedIn: [linkedin.com/in/cosminbalaiu]
+💻 Fitness Progression API: [https://github.com/Cosmy30/FitnessProgressionAPI]
 
-Currently working on a Fitness Progression API project for tracking workouts.
+### Technologies
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- Git
 
-Interests:
-• Backend development
-• Software engineering
-• Computational science
+### Projects
+- Fitness Progression API
+  - ASP.NET Core Web API for tracking workouts and fitness progress
+  - CRUD operations, EF Core, SQL Server, DTOs, business rules, migrations and Swagger documentation
+
+### Interests
+- Backend development
+- Software engineering
+- Computational science
