@@ -2,7 +2,7 @@
 
 Backend developer with a background in Chemistry and a strong interest in software engineering, C#, .NET, SQL and REST API development.
 
-📄 LinkedIn: [linkedin.com/in/cosminbalaiu]
+📄 LinkedIn: [https://linkedin.com/in/cosminbalaiu]
 
 💻 Fitness Progression API: [https://github.com/Cosmy30/FitnessProgressionAPI]
 
