@@ -3,6 +3,7 @@
 Backend developer with a background in Chemistry and a strong interest in software engineering, C#, .NET, SQL and REST API development.
 
 📄 LinkedIn: [linkedin.com/in/cosminbalaiu]
+
 💻 Fitness Progression API: [https://github.com/Cosmy30/FitnessProgressionAPI]
 
 ### Technologies
@@ -15,7 +16,7 @@ Backend developer with a background in Chemistry and a strong interest in softwa
 
 ### Projects
 - Fitness Progression API
-  - ASP.NET Core Web API for tracking workouts and fitness progress
+  - ASP.NET Core Web API for workout tracking and exercise logging
   - CRUD operations, EF Core, SQL Server, DTOs, business rules, migrations and Swagger documentation
 
 ### Interests
