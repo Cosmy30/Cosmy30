@@ -1,6 +1,6 @@
 ## Hi, I'm Cosmin 👋
 
-Backend developer with a background in Chemistry and a strong interest in software engineering, C#, .NET, SQL and REST API development.
+Backend developer with a background in chemistry and a strong interest in software engineering, C#, .NET, SQL and REST API development.
 
 📄 LinkedIn: [https://linkedin.com/in/cosminbalaiu]
 
