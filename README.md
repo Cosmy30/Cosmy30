@@ -17,7 +17,7 @@ Backend developer with a background in chemistry and a strong interest in softwa
 ### Projects
 - Fitness Progression API
   - ASP.NET Core Web API for workout tracking and exercise logging
-  - CRUD operations, EF Core, SQL Server, DTOs, business rules, migrations and Swagger documentation
+  - CRUD operations, EF Core, SQL Server, DTOs, business rules, migrations, and Swagger UI for API exploration and testing
 
 ### Interests
 - Backend development
